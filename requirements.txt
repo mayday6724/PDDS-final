@@ -1,0 +1,11 @@
+dash
+dash_bootstrap_components
+pandas
+numpy
+plotly.graph_objects
+plotly.express
+sqlite3
+os
+
+# deploy
+gunicorn
