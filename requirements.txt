@@ -2,8 +2,7 @@ dash
 dash_bootstrap_components
 pandas
 numpy
-plotly.graph_objects
-plotly.express
+plotly
 sqlite3
 os
 
