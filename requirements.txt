@@ -3,8 +3,6 @@ dash_bootstrap_components
 pandas
 numpy
 plotly
-sqlite3
-os
 
 # deploy
 gunicorn
